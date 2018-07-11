@@ -1,0 +1,13 @@
+html, body{
+    background-color: aqua;
+}
+
+#imgview{ 
+   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000,endColorstr=#80000000); 
+   zoom: 1;
+}
+.wrapper .container .offer .slidercontent .slider{
+    overflow: scroll;
+}
+.wrapper .container .ourteam .team{display: block;}
+.wrapper .container .ourteam .team .person{display: inline-block;}
